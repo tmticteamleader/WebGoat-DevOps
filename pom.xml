@@ -8,14 +8,14 @@
     <packaging>pom</packaging>
     <version>8.2.3-SNAPSHOT</version>
 
-    <parent>
+    <parent>FFDSFSD
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.6.1</version>
     </parent>
 
     <name>WebGoat Parent Pom</name>
-    <description>Parent Pom for the WebGoat Project. A deliberately insecure Web Application</description>
+    <description>Parent Pom for the WebGoat Project. An insecure Web Application</description>
     <inceptionYear>2006</inceptionYear>
     <url>https://github.com/WebGoat/WebGoat</url>
 
